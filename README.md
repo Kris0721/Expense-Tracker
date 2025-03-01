@@ -1,6 +1,7 @@
 # Expense-Tracker
 
 📌 Overview
+
 Expense Tracker is a simple yet effective tool to manage daily expenses. It includes a command-line and GUI-based interface for adding, viewing, and categorizing expenses. Built with Python, CSV, and Tkinter, it provides an intuitive way to track spending habits. Ideal for personal finance management. Expense Tracker is a simple Python-based application that helps users manage their daily expenses. It offers both a command-line and GUI interface for adding, viewing, and categorizing expenses efficiently.
 
 🛠 Features
