@@ -27,7 +27,7 @@ CSV (for data storage)
 
 Clone the repository:
 
-git clone https://github.com/your-username/Expense-Tracker.git
+git clone https://github.com/Kris0721/Expense-Tracker.git
 cd Expense-Tracker
 
 Run the command-line version:
